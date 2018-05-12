@@ -1,0 +1,25 @@
+_repo: Poems_14871
+_version: 0.1.0
+alternative_title: A Message of Hope
+covers:
+- cover_type: archival
+  image_path: 14871-h/images/cover.png
+creator:
+  author:
+    agent_name: Walton, Mary Alice
+    gutenberg_agent_id: '5727'
+    url: http://www.gutenberg.org/2009/agents/5727
+description: ''
+gutenberg_issued: '2005-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14871'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PS'
+title: Poems
+url: http://www.gutenberg.org/ebooks/14871
